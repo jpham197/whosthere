@@ -1,0 +1,80 @@
+[
+  {
+    "id": "9aa4002d-6114-436d-8e30-cc879e4a7e0b",
+    "data": [
+      {
+        "text": "i\u0027m getting ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "alias": "Up",
+        "meta": "@Up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331565
+  },
+  {
+    "id": "ffa05efd-2268-43df-aa9f-3ca9f47f7980",
+    "data": [
+      {
+        "text": "yeah yeah yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331565
+  },
+  {
+    "id": "9a44cd69-f5cd-4507-afce-d27ed24468b6",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331565
+  },
+  {
+    "id": "66d657b4-4708-4cb9-bf72-f68a7800f56f",
+    "data": [
+      {
+        "text": "i\u0027m on my way",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331565
+  },
+  {
+    "id": "9ce9b4f5-6dd3-4da6-8d45-9012b00d3764",
+    "data": [
+      {
+        "text": "I\u0027ll be there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331565
+  },
+  {
+    "id": "69bd6d52-b835-4321-858f-e7f29abff473",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331565
+  }
+]

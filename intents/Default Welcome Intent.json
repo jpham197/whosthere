@@ -1,0 +1,40 @@
+{
+  "id": "9a27d6ca-3df5-4956-b4e4-b5d8e63d2cd3",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Welcome! Is there anything I can do for you?",
+            "How do you do!  What can I help you with?",
+            "Hey! Is there something I  can help you with?",
+            "What\u0027s up! Is there anything I can do for you?",
+            "Hello! What can I help you with?",
+            "Hi! What can I help you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518302963,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

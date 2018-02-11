@@ -1,0 +1,34 @@
+{
+  "id": "e2025cab-3614-4753-b53d-79ec45192728",
+  "name": "User-quit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Understood! Goodbye!",
+            "See you next time!",
+            "I\u0027ll be here whenever you need me!",
+            "Ciao!",
+            "see ya next time!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518330928,
+  "fallbackIntent": false,
+  "events": []
+}

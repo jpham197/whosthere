@@ -1,0 +1,47 @@
+{
+  "id": "ebb9fc7e-2b5b-4bf0-8959-1bff119e45b2",
+  "name": "After_Do_You_know_positive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "After_Do_You_know_positive-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d063a6fe-658e-4a86-bee1-2cad7d43ef44",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "Names"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Do you wanna play their entrance song?",
+            "Do you want to play their entrance song?",
+            "Do you want to play the special music?",
+            "Do you want it to get turnt?",
+            "Do you want it to get lit?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518330714,
+  "fallbackIntent": false,
+  "events": []
+}

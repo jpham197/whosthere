@@ -1,0 +1,37 @@
+{
+  "id": "7386b58b-b305-4e0d-86c6-800b52b97e65",
+  "name": "sit_to_get_up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "133d4260-f958-41e4-9e63-337b6b5b6468",
+          "required": false,
+          "dataType": "@Up",
+          "name": "Up",
+          "value": "$Up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Would you like to add them to your list of friends or family?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518331565,
+  "fallbackIntent": false,
+  "events": []
+}

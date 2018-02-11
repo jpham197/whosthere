@@ -1,0 +1,39 @@
+{
+  "id": "33cb486c-b3aa-4932-9ad6-45c7c86fe193",
+  "parentId": "ebb9fc7e-2b5b-4bf0-8959-1bff119e45b2",
+  "rootParentId": "ebb9fc7e-2b5b-4bf0-8959-1bff119e45b2",
+  "name": "After_Do_You_know_positive - yes",
+  "auto": true,
+  "contexts": [
+    "After_Do_You_know_positive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "After_Do_You_know_positive.After_Do_You_know_positive-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Great! Who would you like to listen to?",
+            "What song would you like to here?",
+            "Any song on your mind?",
+            "What artist do you prefer to listen to?",
+            "What song do you want to listen to?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518331152,
+  "fallbackIntent": false,
+  "events": []
+}

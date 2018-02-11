@@ -1,0 +1,72 @@
+[
+  {
+    "id": "faba2228-a2ec-4ee1-b86b-e9b65bbb2fce",
+    "data": [
+      {
+        "text": "I would love to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331805
+  },
+  {
+    "id": "7a681542-b46a-4072-8c25-dc0760c6ddfd",
+    "data": [
+      {
+        "text": "of course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331805
+  },
+  {
+    "id": "d0f06cdc-4036-4823-bbf5-82cbd4e4ff39",
+    "data": [
+      {
+        "text": "yes, right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331805
+  },
+  {
+    "id": "760304ff-0838-454b-b0e5-575f6ce3ffb1",
+    "data": [
+      {
+        "text": "I would like to give them a ",
+        "userDefined": false
+      },
+      {
+        "text": "song",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": false
+      },
+      {
+        "text": " now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331805
+  },
+  {
+    "id": "5beadde1-bd42-4b46-92d9-d777595d55f4",
+    "data": [
+      {
+        "text": "now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331805
+  }
+]

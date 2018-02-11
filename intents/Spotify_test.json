@@ -1,0 +1,46 @@
+{
+  "id": "b3ab6b91-3b41-4260-a44d-482be6476ca6",
+  "name": "Spotify_test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "my.song",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5860683e-0788-471a-aadd-de420a879a29",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "name": "music-artist",
+          "value": "$music-artist",
+          "isList": false
+        },
+        {
+          "id": "4bafaca6-ed29-4dbc-976e-a963fc1a3e95",
+          "required": true,
+          "dataType": "@song",
+          "name": "song",
+          "value": "$song",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "wtf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518330954,
+  "fallbackIntent": false,
+  "events": []
+}

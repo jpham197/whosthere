@@ -1,0 +1,46 @@
+{
+  "id": "b348b1d5-8ab2-4102-a940-7c5a77763c3a",
+  "name": "Do_you_know_who",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "lucky.number",
+      "affectedContexts": [
+        {
+          "name": "Do_you_know_who-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "One second! Scanning ... Your friend Bobby is at the door.",
+            "Wait one moment please? I\u0027m right on it! Scanning ... Dylan is here",
+            "I\"ll find out who it is! Scanning ... Alex has arrived.",
+            "I will find out who it is! Scanning ... Junkrat is here.",
+            "I\u0027ll tell you right away! Scanning ... Mario is at the door.",
+            "I will tell you right away! Scanning ... Weird ... no one is at the door.",
+            "Uno momento! Scanning ... The person at the door is not one of your friends.",
+            "Just one second! Scanning ... The person at the door is not of your friends.",
+            "Hold on just one minute! Scanning ... Weird ... no one is at the door.",
+            "Hold on just a second! Scanning ... Junkrat is here"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518336006,
+  "fallbackIntent": false,
+  "events": []
+}

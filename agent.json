@@ -1,0 +1,56 @@
+{
+  "description": "",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "whosthere-4074e",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "b05a8f62-c59d-4e6d-b4a4-6f635026d62f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b348b1d5-8ab2-4102-a940-7c5a77763c3a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b3ab6b91-3b41-4260-a44d-482be6476ca6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8617e9c4-63ea-40b3-aeac-8a81e4282b01",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "8617e9c4-63ea-40b3-aeac-8a81e4282b01"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://console.firebase.google.com/project/whosthere-4074e/overview",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": false
+}

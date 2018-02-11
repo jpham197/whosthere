@@ -1,0 +1,44 @@
+{
+  "id": "8c28173c-5ae1-41f3-90a5-9f70a8032151",
+  "name": "sit_to_get_up_two_steps",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "142cb529-8953-4ead-bfd8-501aa3a31c9b",
+          "required": false,
+          "dataType": "@song",
+          "name": "song",
+          "value": "$song",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "What artist do you have in mind?",
+            "What song do you have in mind?",
+            "What song is your favorite?",
+            "Any songs on your mind?",
+            "Any artists you\u0027ve been listening to lately?",
+            "Any fire songs out there?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518331805,
+  "fallbackIntent": false,
+  "events": []
+}

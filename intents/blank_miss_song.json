@@ -1,0 +1,35 @@
+{
+  "id": "b4c032fc-7578-4b16-ad82-7158ab36bf44",
+  "name": "blank_miss_song",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "What artist do you prefer?",
+            "What is your favorite song?",
+            "What do you want to be your entrance song?",
+            "Do you have any songs in mind?",
+            "Do you have any artists in mind?",
+            "Any top charts songs you want to use?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518331380,
+  "fallbackIntent": false,
+  "events": []
+}

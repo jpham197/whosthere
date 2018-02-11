@@ -1,0 +1,44 @@
+{
+  "id": "b05a8f62-c59d-4e6d-b4a4-6f635026d62f",
+  "name": "color_cordinator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "lucky.number",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b9382654-6399-4cf2-af0f-f8739eace3e9",
+          "required": true,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "color, nerd."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "no response"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1518332548,
+  "fallbackIntent": false,
+  "events": []
+}

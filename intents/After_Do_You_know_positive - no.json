@@ -1,0 +1,33 @@
+{
+  "id": "d7c36b70-7dac-4c37-9828-c673eab842f4",
+  "parentId": "ebb9fc7e-2b5b-4bf0-8959-1bff119e45b2",
+  "rootParentId": "ebb9fc7e-2b5b-4bf0-8959-1bff119e45b2",
+  "name": "After_Do_You_know_positive - no",
+  "auto": true,
+  "contexts": [
+    "After_Do_You_know_positive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "After_Do_You_know_positive.After_Do_You_know_positive-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124745,
+  "fallbackIntent": false,
+  "events": []
+}

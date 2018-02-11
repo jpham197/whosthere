@@ -1,0 +1,88 @@
+[
+  {
+    "id": "b9accf4d-312f-45aa-8f90-89309d3fb5f3",
+    "data": [
+      {
+        "text": "music",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": false
+      },
+      {
+        "text": " la la",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518329074
+  },
+  {
+    "id": "2e88a4bf-d8c0-4201-a867-5d8c0da221b7",
+    "data": [
+      {
+        "text": "i like to sing a ",
+        "userDefined": false
+      },
+      {
+        "text": "song",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518329074
+  },
+  {
+    "id": "d8227c35-498a-4985-9bc2-e87763e868a4",
+    "data": [
+      {
+        "text": "song",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518320556
+  },
+  {
+    "id": "518a75f5-0bb4-44f3-b43b-bed1166f0524",
+    "data": [
+      {
+        "text": "i want to listen to ",
+        "userDefined": false
+      },
+      {
+        "text": "bruno mars",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518320345
+  },
+  {
+    "id": "3ff4c9db-baf5-453e-9f57-6a3208f754c8",
+    "data": [
+      {
+        "text": "play some ",
+        "userDefined": false
+      },
+      {
+        "text": "david bowie",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518320345
+  }
+]

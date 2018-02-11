@@ -1,0 +1,122 @@
+[
+  {
+    "id": "84a74c13-3cd1-4b09-9f6f-9516e520ce15",
+    "data": [
+      {
+        "text": "Door",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  },
+  {
+    "id": "aa8c248b-c69e-4a75-be2b-2dd00de9758b",
+    "data": [
+      {
+        "text": "The door",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  },
+  {
+    "id": "f2a1cd62-86ca-4956-856f-c9ae7c2fef15",
+    "data": [
+      {
+        "text": "Could you tell me who is at the door?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  },
+  {
+    "id": "ccc76109-8fcd-4d4b-891c-a1cdcaaa5732",
+    "data": [
+      {
+        "text": "Could you tell me who\u0027s at the door?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  },
+  {
+    "id": "1b2aa34d-1e36-46a8-985a-c64cdd9450ce",
+    "data": [
+      {
+        "text": "Can you tell me who\u0027s at the door?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  },
+  {
+    "id": "fd1e025b-54f9-4279-90b0-e6c0b4e94889",
+    "data": [
+      {
+        "text": "Do you know who is at the door?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  },
+  {
+    "id": "6d03da3a-c013-4622-9a6f-b5a89cac89e1",
+    "data": [
+      {
+        "text": "Can you tell me who is at the door?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  },
+  {
+    "id": "f1b1397b-0a80-455b-9d93-f15ca32adeb6",
+    "data": [
+      {
+        "text": "Who is at the door?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  },
+  {
+    "id": "f7194cec-9111-412b-8c61-01a68401e2e6",
+    "data": [
+      {
+        "text": "Who\u0027s at the door?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  },
+  {
+    "id": "7967c271-6fe6-4907-9a50-28aec7db4ee6",
+    "data": [
+      {
+        "text": "Who\u0027s there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336006
+  }
+]

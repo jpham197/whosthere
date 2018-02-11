@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c86e138e-cb4d-4984-a2b9-d708bb37eb6c",
+    "data": [
+      {
+        "text": "sleep cycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  },
+  {
+    "id": "fc2f5fcd-f961-4644-ad54-263581b3944f",
+    "data": [
+      {
+        "text": "sleep cycle engage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  },
+  {
+    "id": "8071bcce-6d7b-4f97-8915-e81ba99cc937",
+    "data": [
+      {
+        "text": "enter sleep mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  },
+  {
+    "id": "12abd0f0-1bce-431c-8063-0b1489c10c5c",
+    "data": [
+      {
+        "text": "sleep mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  },
+  {
+    "id": "63961fe2-f2d8-4b1b-a4a3-aa9d780564ea",
+    "data": [
+      {
+        "text": "power down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  },
+  {
+    "id": "941136f3-557e-4ef9-94fe-b94ec0bf3262",
+    "data": [
+      {
+        "text": "off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  },
+  {
+    "id": "ceeeb46e-b433-48d8-8b1d-8836f66cb59a",
+    "data": [
+      {
+        "text": "Leave app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  },
+  {
+    "id": "1146226c-799b-4cf1-aac7-068255c2d146",
+    "data": [
+      {
+        "text": "turn off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  },
+  {
+    "id": "f805632f-069e-4420-b506-099a54d92265",
+    "data": [
+      {
+        "text": "exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  },
+  {
+    "id": "fe694e6e-ff75-4401-b83f-60cd4f3b5970",
+    "data": [
+      {
+        "text": "Shutdown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330928
+  }
+]
